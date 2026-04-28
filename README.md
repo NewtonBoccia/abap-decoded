@@ -9,17 +9,17 @@
 
 ```
 NÍVEL 0 ──────────────────────────────────────────────────────────────── NÍVEL PRO
-   │                                                                          │
-[Setup]──▶[Fundamentos]──▶[Modularização]──▶[OO ABAP]──▶[Banco de Dados]    │
-                                                              │               │
-                                              [IDocs & EDI]◀─┘               │
-                                                    │                         │
+   │                                                                         │
+[Setup]──▶[Fundamentos]──▶[Modularização]──▶[OO ABAP]──▶[Banco de Dados]   │
+                                                              │              │
+                                              [IDocs & EDI]◀─┘              │
+                                                    │                        │
                                               [BAPI & RFC]                   │
-                                                    │                         │
+                                                    │                        │
                                            [Reports & ALV]                   │
-                                                    │                         │
+                                                    │                        │
                                          [Smartforms / Adobe]                │
-                                                    │                         │
+                                                    │                        │
                                               [Fiori & RAP] ─────────────────┘
 ```
 
