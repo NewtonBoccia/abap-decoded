@@ -3,7 +3,7 @@
 ## Opcoes gratuitas para praticar ABAP
 
 ### 1. SAP BTP Trial (recomendado)
-- Acesse: https://www.sap.com/developer/trials-demos/developer-starter-pack.html
+- Acesse: https://www.sap.com/products/technology-platform/trial.html
 - Crie uma conta gratuita
 - Ative o SAP BTP ABAP Environment
 
