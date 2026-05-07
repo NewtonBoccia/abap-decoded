@@ -32,13 +32,13 @@ NÍVEL 0 ───────────────────────�
 | 00 | [Setup do Ambiente](./00-setup/) | 🟢 Iniciante | ✅ Disponível |
 | 01 | [Fundamentos](./01-fundamentos/) | 🟢 Iniciante | ✅ Disponível |
 | 02 | [Modularização](./02-modularizacao/) | 🟡 Intermediário | ✅ Disponível |
-| 03 | [OO ABAP](./03-oo-abap/) | 🟡 Intermediário | 🚧 Em breve |
-| 04 | [Banco de Dados & CDS](./04-banco-de-dados/) | 🟡 Intermediário | 🚧 Em breve |
-| 05 | [IDocs & EDI](./05-idocs-edi/) | 🔴 Avançado | 🚧 Em breve |
-| 06 | [BAPI & RFC](./06-bapi-rfc/) | 🔴 Avançado | 🚧 Em breve |
-| 07 | [Reports & ALV](./07-reports-alv/) | 🟡 Intermediário | 🚧 Em breve |
-| 08 | [Smartforms & Adobe Forms](./08-smartforms-adobe/) | 🔴 Avançado | 🚧 Em breve |
-| 09 | [Fiori & RAP](./09-fiori-rap/) | 🔴 Avançado | 🚧 Em breve |
+| 03 | [OO ABAP](./03-oo-abap/) | 🟡 Intermediário | ✅ Disponível |
+| 04 | [Banco de Dados & CDS](./04-banco-de-dados/) | 🟡 Intermediário | ✅ Disponível |
+| 05 | [IDocs & EDI](./05-idocs-edi/) | 🔴 Avançado | ✅ Disponível |
+| 06 | [BAPI & RFC](./06-bapi-rfc/) | 🔴 Avançado | ✅ Disponível |
+| 07 | [Reports & ALV](./07-reports-alv/) | 🟡 Intermediário | ✅ Disponível |
+| 08 | [Smartforms & Adobe Forms](./08-smartforms-adobe/) | 🔴 Avançado | ✅ Disponível |
+| 09 | [Fiori & RAP](./09-fiori-rap/) | 🔴 Avançado | ✅ Disponível |
 
 ---
 

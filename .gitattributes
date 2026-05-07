@@ -1,0 +1,13 @@
+# Prevent .bat and .sh scripts from being detected as the primary language
+*.bat linguist-detectable=false
+*.sh  linguist-detectable=false
+
+# Markdown is documentation, not code
+*.md linguist-documentation=true
+
+# ABAP files are the primary language
+*.abap linguist-language=ABAP
+*.ddls  linguist-language=ABAP
+
+# Treat EDI sample files as text
+*.edi  linguist-language=Text
